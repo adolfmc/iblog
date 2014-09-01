@@ -1,4 +1,5 @@
-start 
+redis
+---------------------------------------------------------------------------------------------------
 ./bin/redis-server ./redis.conf --loglevel verbose
 1 wget http://download.redis.io/releases/redis-2.8.4.tar.gz
 2 tar xzvf redis-2.8.4.tar.gz -C /home/nieyong/download/build
@@ -21,3 +22,4 @@ start
   OK
   127.0.0.1:9999> get username
   "nieyong"
+---------------------------------------------------------------------------------------------------
