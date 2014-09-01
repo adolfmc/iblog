@@ -5,7 +5,10 @@ start
 3 cd /home/nieyong/download/build/redis-2.8.4
   make PREFIX=/home/nieyong/local/redis-2.8.4 install
 4 cd /home/nieyong/local/redis-2.8.4/bin
-  ./redis-server --port 9999
+  public model 
+    ./redis-server --port 9999
+  debug model
+    ./bin/redis-server ./redis.conf --loglevel verbose
 5 testting
 ./redis-cli -h 127.0.0.1 -p 9999
   127.0.0.1:9999> ping
