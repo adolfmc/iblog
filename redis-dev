@@ -1,4 +1,4 @@
-redis
+redis install by centos
 ---------------------------------------------------------------------------------------------------
 ./bin/redis-server ./redis.conf --loglevel verbose
 1 wget http://download.redis.io/releases/redis-2.8.4.tar.gz
