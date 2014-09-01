@@ -1,0 +1,20 @@
+start 
+./bin/redis-server ./redis.conf --loglevel verbose
+1 wget http://download.redis.io/releases/redis-2.8.4.tar.gz
+2 tar xzvf redis-2.8.4.tar.gz -C /home/nieyong/download/build
+3 cd /home/nieyong/download/build/redis-2.8.4
+  make PREFIX=/home/nieyong/local/redis-2.8.4 install
+4 cd /home/nieyong/local/redis-2.8.4/bin
+  ./redis-server --port 9999
+5 testting
+./redis-cli -h 127.0.0.1 -p 9999
+  127.0.0.1:9999> ping
+  PONG
+  127.0.0.1:9999> set name 聂勇
+  OK
+  127.0.0.1:9999> get name
+  "\xe8\x81\x82\xe5\x8b\x87"
+  127.0.0.1:9999> set username nieyong
+  OK
+  127.0.0.1:9999> get username
+  "nieyong"
