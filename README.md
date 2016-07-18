@@ -2,41 +2,41 @@
 
 开发平台相关
 --------------------------------------------
-编译: maven , nexus
-代码托管: gitlab , svn                  
-打包部署: jenkins, docker                 
-进度管理: ldap , oa , 禅道, wiki          
+ <br>编译: maven , nexus
+ <br>代码托管: gitlab , svn                  
+ <br>打包部署: jenkins, docker                 
+ <br>进度管理: ldap , oa , 禅道, wiki          
 --------------------------------------------
 
 基础服务
 --------------------------------------------
-通讯服务: dubbo
-队列: Active MQ
-中心管理: zookeeper
-NoSQL: redis
-DB: Oracle
+ <br>通讯服务: dubbo
+ <br>队列: Active MQ
+ <br>中心管理: zookeeper
+ <br>NoSQL: redis
+ <br>DB: Oracle
 --------------------------------------------
 
 
 服务监控
 --------------------------------------------
-zabbix , dm
+ <br>zabbix , dm
 
 日志处理
 --------------------------------------------
-logstash+elasticsearch+kibana
+ <br>logstash+elasticsearch+kibana
 
 接口服务器
 --------------------------------------------
-ESB 
+ <br>ESB 
 
 反向代理
 --------------------------------------------
-nginx
+ <br>nginx
 
 网关
 --------------------------------------------
-路由、防火墙WAF
+ <br>路由、防火墙WAF
 
 服务产品
 --------------------------------------------
@@ -46,23 +46,23 @@ WEB, iOS, Android, WinPhone, WeiXin, H5
 
 业务服务
 --------------------------------------------
-CREDIT
-AUTO CREDIT
-FORTUNE
-CRM
-RCM
-fraud
-CORE ACCOUNT
+ <br>CREDIT
+ <br>AUTO CREDIT
+ <br>FORTUNE
+ <br>CRM
+ <br>RCM
+ <br>fraud
+ <br>CORE ACCOUNT
 
 公共服务
 --------------------------------------------
-UC
-SSO UC-CAS
-配置管理 configcenter
-支付 TPP
-消息 SMS
-文件 FTP
-友盟
+ <br>UC
+ <br>SSO UC-CAS
+ <br>配置管理 configcenter
+ <br>支付 TPP
+ <br>消息 SMS
+ <br>文件 FTP
+ <br>友盟
 
 
 --------------------------------------------
