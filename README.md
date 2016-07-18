@@ -27,6 +27,51 @@ logstash+elasticsearch+kibana
 ====================================
 ESB 
 
+反向代理
+====================================
+nginx
+
+网关
+====================================
+路由、防火墙WAF
+
+服务产品
+====================================
+WEB, iOS, Android, WinPhone, WeiXin, H5
+
+
+
+业务服务
+====================================
+CREDIT
+AUTO CREDIT
+FORTUNE
+CRM
+RCM
+fraud
+CORE ACCOUNT
+
+公共服务
+====================================
+UC
+SSO UC-CAS
+配置管理 configcenter
+支付 TPP
+消息 SMS
+文件 FTP
+友盟
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
