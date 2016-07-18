@@ -3,8 +3,8 @@
 <br>开发平台相关
 <br>--------------------------------------------
 <br>编译: maven , nexus
-<br>代码托管: gitlab , svn                  
-<br>打包部署: jenkins, docker                 
+<br>代码托管: gitlab , svn
+<br>打包部署: jenkins, docker
 <br>进度管理: ldap , oa , 禅道, wiki
 <br>--------------------------------------------
 <br>
