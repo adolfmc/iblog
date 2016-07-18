@@ -2,7 +2,7 @@
 
 开发平台相关
 --------------------------------------------
-编译: maven , nexus
+编译: maven , nexus</br>
 代码托管: gitlab , svn                  
 打包部署: jenkins, docker                 
 进度管理: ldap , oa , 禅道, wiki          
