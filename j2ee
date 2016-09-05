@@ -1,0 +1,36 @@
+Introduction
+
+SpringSide是以Spring Framework为核心的，Pragmatic风格的JavaEE应用参考示例，是JavaEE世界中的主流技术选型，最佳实践的总结与演示。
+
+Important Resource
+
+
+General Library
+Spring, SpringBoot
+
+Web
+Spring MVC
+Spring Restful Service
+Http Client
+
+Data
+Spring Data JPA, JPA/Hibernate
+DataBases Overview, H2 Database, DataSource, Transaction
+Cache Overview, Guava Cache
+Service
+
+JMX
+Logging/Slf4j/Logback
+General Library
+
+Spring
+General Utilizes, JSON/JAXB, Date
+
+Test
+Test Overview, Unit Test/Mockito/AssertJ,
+
+Environment
+Eclipse, Maven, Sonar, Git
+
+设计模式
+策略，代理，门面
